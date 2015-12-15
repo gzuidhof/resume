@@ -1,0 +1,174 @@
+{
+  "basics": {
+    "name": "Guido Zuidhof",
+    "label": "Artificial Intelligence Student",
+    "picture": "",
+    "email": "me@guido.io",
+    "phone": "Available upon request",
+    "website": "http://guido.io",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Nijmegen",
+      "countryCode": "NL",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "gzuidhof",
+        "url": "https://www.github.com/gzuidhof"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "guido-zuidhof",
+        "url": "    https://nl.linkedin.com/in/guido-zuidhof-377b6947"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Donders Institute for Brain, Cognition and Behaviour",
+      "position": "Student Assistant",
+      "website": "http://www.ru.nl/donders/",
+      "startDate": "2015",
+      "endDate": "",
+      "summary": "Developed various demos for the NoiseTagging project. NoiseTagging is a BCI (brain computer interface) technique where the user is capable of giving input by looking at flickering visual stimuli, which is classified from EEG data. These demos were developed using the Unity3D engine (C#) and targeted both desktop and mobile platforms.",
+      "highlights": [
+        "Visual speller, allowing the user to type sentences by looking at keyboard keys.",
+        "Projection mapping demo, where the noisetags are projected on real world objects.",
+        "Game demo to show NoiseTagging's potential in entertainment."
+      ]
+    },
+    {
+      "company": "Van Doormalen (Albert Heijn franchise)",
+      "position": "Shelf stacker and Evening Crew Manager",
+      "website": "",
+      "startDate": "2008",
+      "endDate": "2011",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Radboud University Nijmegen",
+      "area": "Artifical Intelligence - Web and Language track",
+      "studyType": "Master",
+      "startDate": "2015",
+      "endDate": "",
+      "gpa": "",
+      "courses": [
+        "NWI-IMC030 Machine Learning in Practice",
+        "SOW-MKI51 AI at the Webscale",
+        "NWI-IMC042 Natural Computing",
+        "SOW-MKI52 App-lab: Intelligent Mobile Apps",
+        "SOW-MKI50 Human-robot interaction",
+        "SOW-MKI55 Artificial and Natural Music Cognition",
+        "SOW-MKI37 TCS-2: Science and Society"
+      ]
+    },
+    {
+      "institution": "Radboud University Nijmegen",
+      "area": "Kunstmatige Intelligentie (Artifical Intelligence)",
+      "studyType": "Bachelor",
+      "startDate": "2011",
+      "endDate": "2015",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "SG. Augustinianum, Eindhoven",
+      "area": "Economics and Society with extracuricular course in physics",
+      "studyType": "VWO",
+      "startDate": "2005",
+      "endDate": "2011",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "",
+      "keywords": [
+        "Object-Oriented",
+        "Functional (Elixir, Python)",
+        "Logic (Prolog)"
+      ]
+    },
+    {
+      "name": "Workflow",
+      "level": "",
+      "keywords": [
+        "Version Control (git)",
+        "Automated testing (travis-ci)",
+        "Agile (scrum)"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "level": "",
+      "keywords": [
+        "Python (numpy, scipy, scikit-learn, pandas, lasagne)",
+        "Matlab"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": [
+        "HTML, CSS, JavaScript",
+        "WebRTC",
+        "React.JS",
+        "Meteor"
+      ]
+    },
+    {
+      "name": "Game Development",
+      "level": "",
+      "keywords": [
+        "Unity3D",
+        "three.js",
+        "Phaser"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Full professional proficiency"
+    },
+    {
+      "language": "Dutch",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "French",
+      "fluency": "Limited working proficiency"
+    },
+    {
+      "language": "German",
+      "fluency": "Elementary proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Open Source Software",
+      "keywords": []
+    },
+    {
+      "name": "Machine Learning",
+      "keywords": []
+    },
+    {
+      "name": "Tech",
+      "keywords": []
+    }
+  ],
+  "references": []
+}
