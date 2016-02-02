@@ -59,7 +59,7 @@
       "studyType": "Master",
       "startDate": "2015",
       "endDate": "",
-      "gpa": "",
+      "gpa": "So far: 3.8+",
       "courses": [
         "NWI-IMC030 Machine Learning in Practice",
         "SOW-MKI51 AI at the Webscale",
@@ -67,12 +67,17 @@
         "SOW-MKI52 App-lab: Intelligent Mobile Apps",
         "SOW-MKI50 Human-robot interaction",
         "SOW-MKI55 Artificial and Natural Music Cognition",
-        "SOW-MKI37 TCS-2: Science and Society"
+        "SOW-MKI37 TCS-2: Science and Society",
+		"SOW-MKI30 Advanced in Human-computer interaction",
+		"SOW-MKI42 Advanced Research Methods",
+		"NWI-I00041 Information Retrieval",
+		"NWI-IMC052 Software Development in Start-ups",
+		"LET-LCEX06 Text Mining"
       ]
     },
     {
       "institution": "Radboud University Nijmegen",
-      "area": "Kunstmatige Intelligentie (Artifical Intelligence)",
+      "area": "Kunstmatige Intelligentie (Artificial Intelligence)",
       "studyType": "Bachelor",
       "startDate": "2011",
       "endDate": "2015",
@@ -81,7 +86,7 @@
     },
     {
       "institution": "SG. Augustinianum, Eindhoven",
-      "area": "Economics and Society with extracuricular course in physics",
+      "area": "Economics and Society with extracurricular course in physics",
       "studyType": "VWO",
       "startDate": "2005",
       "endDate": "2011",
